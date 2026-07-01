@@ -6,7 +6,7 @@ import { AuthProvider } from "./context/AuthContext.jsx";
 
 /**
  * =========================
- * MAIN ENTRY
+ * MAIN ENTRYt
  * =========================
  */
 ReactDOM.createRoot(document.getElementById("root")).render(
